@@ -12,6 +12,7 @@ main{
     margin-top: 150px;
     padding: 15px;
     border-radius: 25px;
+    text-align: center;
    
 }
 
@@ -36,7 +37,6 @@ main{
  font-size: 22px;
  font-family: Outfit;
  font-weight: 700;
- text-align: center;
  padding: 5px;
 
 }
@@ -44,7 +44,6 @@ main{
     font-size: 15px;
     font-family:Outfit;
     font-weight:400;
-    text-align: center;
     padding: 15px;
     color: hsl(220, 15%, 55%);
    
